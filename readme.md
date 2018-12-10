@@ -40,6 +40,9 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
   * K. Xu, Z. Zhang, and  F. Ren, "LAPRAN: A Scalable Laplacian Pyramid Reconstructive Adversarial Network for Flexible Compressive Sensing Reconstruction," arXiv:1807.09388. 
 
 ## Frame-based DCS
+* VAR-MSI [[Code]](https://github.com/VLOGroup/mri-variationalnetwork) [[PDF]] [[DOI]](https://doi.org/10.1002/mrm.26977) [Tensorflow]
+  * H. Kerstin et al., "Learning a variational network for reconstruction of accelerated MRI data," Magnetic Resonance in Medicine, vol. 79, no. 6, 2018. 
+
 * CSMRI [[Code]](https://github.com/mseitzer/csmri-refinement) [[PDF]](https://arxiv.org/abs/1806.11216) [PyTorch]
   * M. Seitzer et al., "Adversarial and Perceptual Refinement Compressed Sensing MRI Reconstruction," MICCAI 2018. 
 
@@ -54,7 +57,6 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 
 * CSVideoNet [[Code]](https://github.com/PSCLab-ASU/CSVideoNet) [[PDF]](https://arxiv.org/pdf/1612.05203.pdf) [Caffe] [Matlab]
   * K. Xu and F. Ren, "SVideoNet: A Recurrent Convolutional Neural Network for Compressive Sensing Video Reconstruction," arXiv:162.05203, 2018. 
-
 
 * Learned D-AMP [[Code]](https://github.com/ricedsp/D-AMP_Toolbox) [[PDF]](https://arxiv.org/abs/1704.06625) [Tensorflow]
   * C. A. Metzler et al., "Learned D-AMP: Principled Neural Network based Compressive Image Recovery," Advances in Neural Information Processing Systems, 2017.
