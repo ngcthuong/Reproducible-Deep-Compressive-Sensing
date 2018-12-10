@@ -1,7 +1,7 @@
 # Deep Compressive Sensing
 Collection of source code for deep learning-based compressive sensing (DCS). Related works are classified based on the sampling matrix type (frame-based/block-based/binary), sampling scale (single scale, multi-scale), reconstruction (block-based, frame-based)
 
-## Block-based Deep Compressive Sensing
+## Block-based DCS
 ### Single-Scale Sensing
 
 * CSNet [[Code]](https://github.com/wzhshi/CSNet) [[Code-Train]](https://github.com/AtenaKid/CSNet) [[PDF]](https://arxiv.org/abs/1707.07119) [[DOI]](https://doi.org/10.1109/ICME.2017.8019428) [Matconvnet]
@@ -24,9 +24,9 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * MS-CSNet [[Code]](https://github.com/wzhshi/MS-CSNet) [[DOI]](https://doi.org/10.1109/ICIP.2018.8451352) [MatconvNet]
   * W. Shi, F. Jiang, S. Liu, D. Zhao, "Multi-Scale Deep Networks for Image Compressed Sensing," IEEE International Conference on Image Processing (ICIP), 2018. 
 
-### Binary Deep Compressive Sensing 
+### Binary Sensing
 
-## Frame-based Compressive Sensing
+## Frame-based DCS
 * KCS-Net [[Code]](https://github.com/AtenaKid/KCS-Net) [[PDF]](https://www.researchgate.net/publication/324969818_Deep_Learning-Based_Kronecker_Compressive_Imaging) [MatconvNet]
   * T. N. Canh and B. Jeon, "Deep Learning-Based Kronecker Compressive Imaging", IEEE International Conference on Consumer Electronic Asia, 2018
   
