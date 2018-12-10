@@ -71,7 +71,7 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
   * M. Mardani et al., "Compressed Sensing MRI based on Deep Generative Adversarial Network", arXiv:1706.00051, 2017.
 
 ## Other 
-* Unpaired-GANCS [[Code]] (https://github.com/MortezaMardani/Unpaired-GANCS)
+* Unpaired-GANCS [[Code]](https://github.com/MortezaMardani/Unpaired-GANCS)
   * Reconstruct under sampled MRI image
 
 * CSGAN [[Code]](https://github.com/po0ya/csgan) [[PDF]](https://arxiv.org/abs/1802.01284) [Tensorflow]
