@@ -36,6 +36,9 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * MS-CSNet [[Code]](https://github.com/wzhshi/MS-CSNet) [[DOI]](https://doi.org/10.1109/ICIP.2018.8451352) [MatconvNet]
   * W. Shi, F. Jiang, S. Liu, D. Zhao, "Multi-Scale Deep Networks for Image Compressed Sensing," IEEE International Conference on Image Processing (ICIP), 2018. 
 
+* LAPRAN [[Code]](https://github.com/PSCLab-ASU/LAPRAN-PyTorch) [[PDF]](https://arxiv.org/abs/1807.09388) [PyTorch]
+  * K. Xu, Z. Zhang, and  F. Ren, "LAPRAN: A Scalable Laplacian Pyramid Reconstructive Adversarial Network for Flexible Compressive Sensing Reconstruction," arXiv:1807.09388. 
+
 ## Frame-based DCS
 * CSMRI [[Code]](https://github.com/mseitzer/csmri-refinement) [[PDF]](https://arxiv.org/abs/1806.11216) [PyTorch]
   * M. Seitzer et al., "Adversarial and Perceptual Refinement Compressed Sensing MRI Reconstruction," MICCAI 2018. 
