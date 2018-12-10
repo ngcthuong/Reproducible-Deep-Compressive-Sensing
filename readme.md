@@ -22,12 +22,9 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
   * W. Shi, F. Jiang, S. Liu, D. Zhao, "Multi-Scale Deep Networks for Image Compressed Sensing," 
 
 
-
-### Multi-Scale Sensing
-
 ### Binary Deep Compressive Sensing 
 
-### (Structure) Frame-based Compressive Sensing
+## Frame-based Compressive Sensing
 * KCS-Net [[Code]] [[PDF]](https://www.researchgate.net/publication/324969818_Deep_Learning-Based_Kronecker_Compressive_Imaging)
   * T. N. Canh and B. Jeon, "Deep Learning-Based Kronecker Compressive Imaging", IEEE International Conference on Consumer Electronic Asia, 2017
 
