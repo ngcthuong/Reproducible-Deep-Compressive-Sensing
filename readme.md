@@ -49,7 +49,7 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * DeepVideoCS [[Web]](http://users.eecs.northwestern.edu/~mif365/deep_cs_project.html) [[Code]](https://github.com/miliadis/DeepVideoCS) [[PDF]](http://users.eecs.northwestern.edu/~mif365/papers/Deep_Video_CS.pdf) [[DOI]](https://doi.org/10.1016/j.dsp.2017.09.010) [PyTorch]
   * M. Illiasdis, L. Spinoulas, A. K. Katsaggelos, "Deep fully-connected networks for video compressive sensing," Elsevier Digital Signal Processing, vol. 72, 2018.  
 
-* CSVideoNet [[Code]]https://github.com/PSCLab-ASU/CSVideoNet) [[PDF]](https://arxiv.org/pdf/1612.05203.pdf)
+* CSVideoNet [[Code]]https://github.com/PSCLab-ASU/CSVideoNet) [[PDF]](https://arxiv.org/pdf/1612.05203.pdf) [Caffe] [Matlab]
   * K. Xu and F. Ren, "SVideoNet: A Recurrent Convolutional Neural Network for Compressive Sensing Video Reconstruction," arXiv:162.05203, 2018. 
 
 
