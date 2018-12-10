@@ -17,7 +17,7 @@ Related works are classified based on the sampling matrix type (frame-based/bloc
 * DR2Net [[Code]](https://github.com/coldrainyht/caffe_dr2) [[Code]](https://github.com/AtenaKid/Caffe-DCS) [[PDF]](https://arxiv.org/abs/1702.05743) [Caffe]
   * H. Yao, F. Dai, D. Zhang, Y. Ma, S. Zhang, Y. Zhang, and Q. Tian, "DR2-net: Deep residual reconstruction network for image compressive sensing", arXiv:1702.05743, 2017. 
 
-* CS-CAE [[Code]](https://github.com/stes/compressed_sensing/tree/master/code) [[PDF]](https://github.com/stes/compressed_sensing/blob/master/report/report.pdf) 
+* CS-CAE [[Code]](https://github.com/stes/compressed_sensing/tree/master/code) [[PDF]](https://github.com/stes/compressed_sensing/blob/master/report/report.pdf) [Theanos]
   * S. Schneider, "A deep learning approach to compressive sensing with convolutional autoencoders," tech. report, 2016. 
 
 * ReconNet [[Code]](https://github.com/KuldeepKulkarni/ReconNet) [[Code]](https://github.com/AtenaKid/Caffe-DCS) [[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kulkarni_ReconNet_Non-Iterative_Reconstruction_CVPR_2016_paper.pdf) [[DOI]](https://doi.org/10.1109/CVPR.2016.55) [Caffe]
