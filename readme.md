@@ -49,7 +49,7 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * DeepVideoCS [[Web]](http://users.eecs.northwestern.edu/~mif365/deep_cs_project.html) [[Code]](https://github.com/miliadis/DeepVideoCS) [[PDF]](http://users.eecs.northwestern.edu/~mif365/papers/Deep_Video_CS.pdf) [[DOI]](https://doi.org/10.1016/j.dsp.2017.09.010) [PyTorch]
   * M. Illiasdis, L. Spinoulas, A. K. Katsaggelos, "Deep fully-connected networks for video compressive sensing," Elsevier Digital Signal Processing, vol. 72, 2018.  
 
-* Learned D-AMP [[Code]](https://github.com/ricedsp/D-AMP_Toolbox) [[PDF]](https://arxiv.org/abs/1704.06625) 
+* Learned D-AMP [[Code]](https://github.com/ricedsp/D-AMP_Toolbox) [[PDF]](https://arxiv.org/abs/1704.06625) [Tensorflow]
   * C. A. Metzler et al., "Learned D-AMP: Principled Neural Network based Compressive Image Recovery," Advances in Neural Information Processing Systems, 2017.
 
 * Deep-Ternary [[Code]](https://github.com/nmduc/deep-ternary) [[PDF]](https://arxiv.org/abs/1708.08311) [Tensorflow] 
