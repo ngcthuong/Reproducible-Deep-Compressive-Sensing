@@ -1,8 +1,9 @@
-# Deep Compressive Sensing in Caffe
+# Deep Compressive Sensing
 Collection of source code for deep learning-based compressive sensing (DCS). Related works are classified based on the sampling matrix type (frame-based/block-based/binary), sampling scale (single scale, multi-scale), reconstruction (block-based, frame-based)
 
 ## Block-based Deep Compressive Sensing
 ### Sigle-Scale Sensing
+* CSNet [[Code-demo]](https://github.com/wzhshi/CSNet) [PDF]
 
 ### Multi-Scale Sensing
 
