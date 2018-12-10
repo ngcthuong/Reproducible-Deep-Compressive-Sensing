@@ -1,6 +1,6 @@
-# Reproducible Deep Compressive Sensing
+# Reproducible Deep Compressive Sensing 
 Collection of source code for deep learning-based compressive sensing (DCS). Links for source code, pdf, doi are available. 
-Related works are classified based on the sampling matrix type (frame-based/block-based), sampling scale (single scale, multi-scale), and deep learning platform.
+Related works are classified based on the sampling matrix type (frame-based/block-based), sampling scale (single scale, multi-scale), and deep learning platform. 
 
 
 ## Block-based DCS
@@ -48,6 +48,11 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * GANCS [[Code]](https://github.com/gongenhao/GANCS) [[PDF]](htps://arxiv.org/abs/1706.00051) [Tensorflow]
   * M. Mardani et al., "Compressed Sensing MRI based on Deep Generative Adversarial Network", arXiv:1706.00051, 2017.
 
+## Other 
+
+* US-CS [[Code]](https://github.com/dperdios/us-rawdata-sda) [[PDF]](https://infoscience.epfl.ch/record/230991/files/ius2017_sda_preprint.pdf) [[DOI]](https://doi.org/10.1109/ULTSYM.2017.8092746)
+  * D. Perdios, A. Besson, M. Arditi, and J. Thiran, "A Deep Learning Approach to Ultrasound Image Recovery", IEEE International Ultranosics Symposium, 2017. 
+  
 * LSTM_CS [[Code]](https://github.com/Palang2014/Distributed-Compressive-Sensing-A-Deep-Learning-Approach) [[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/LSTM_CS_TSP.pdf) [[DOI]](https://doi.org/10.110910.1109/TSP.2016.2557301) [Matlab]
   * H. Palangi, R. Ward, and L. Deng, "Distributed Compressive Sensing: A Deep Learning Approach," IEEE Transaction on Signal Processing, vol. 64, no. 17, 2016.
   
