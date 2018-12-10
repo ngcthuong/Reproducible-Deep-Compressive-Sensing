@@ -8,7 +8,7 @@ Collection of source code for deep learning-based compressive sensing (DCS). Rel
   
 ### Multi-Scale Sensing
 * DCSNet [[Code-Test]](https://github.com/AtenaKid/MS-DCSNet-Release) [[PDF]](https://arxiv.org/abs/1809.05717)
- * T. N. Canh and B. Jeon, "Multi-Scale Deep Compressive Sensing Network," IEEE International Conference on Visual Communication and Imave Processing (VCIP), 2018.
+  * T. N. Canh and B. Jeon, "Multi-Scale Deep Compressive Sensing Network," IEEE International Conference on Visual Communication and Imave Processing (VCIP), 2018.
 
 
 
