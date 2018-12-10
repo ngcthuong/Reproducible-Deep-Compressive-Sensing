@@ -58,6 +58,9 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * CSVideoNet [[Code]](https://github.com/PSCLab-ASU/CSVideoNet) [[PDF]](https://arxiv.org/pdf/1612.05203.pdf) [Caffe] [Matlab]
   * K. Xu and F. Ren, "SVideoNet: A Recurrent Convolutional Neural Network for Compressive Sensing Video Reconstruction," arXiv:162.05203, 2018. 
 
+* CSGM [[Code]](https://github.com/AshishBora/csgm) [[PDF]](https://arxiv.org/abs/1703.03208) [Tensorflow]
+  * A. Bora, A. Jalal, A. G. Dimakis, "Compressed sensing using Generative Models," arXiv:1703.03208, 2017. 
+
 * Learned D-AMP [[Code]](https://github.com/ricedsp/D-AMP_Toolbox) [[PDF]](https://arxiv.org/abs/1704.06625) [Tensorflow]
   * C. A. Metzler et al., "Learned D-AMP: Principled Neural Network based Compressive Image Recovery," Advances in Neural Information Processing Systems, 2017.
 
