@@ -76,7 +76,7 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
   * M. Mardani et al., "Compressed Sensing MRI based on Deep Generative Adversarial Network", arXiv:1706.00051, 2017.
 
 ## Other 
-* VAE-GANs [[Code]](https://github.com/MortezaMardani/GAN-Hallucination/tree/vae) [[PDF]](https://arxiv.org/pdf/1901.11228.pdf)
+* VAE-GANs [[Code]](https://github.com/MortezaMardani/GAN-Hallucination/tree/vae) [[PDF]](https://arxiv.org/pdf/1901.11228.pdf) [Python]
   * Vineet Edupuganti, Morteza Mardani, Joseph Cheng, Shreyas Vasanawala, John Pauly, "VAE-GANs for Probabilistic Compressive Image Recovery: Uncertainty Analysis," arxiv1901.1128, 2019.   
   
 * Unpaired-GANCS [[Code]](https://github.com/MortezaMardani/Unpaired-GANCS)
