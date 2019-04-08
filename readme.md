@@ -86,6 +86,9 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 
 * Sparse-Gen [[Code]](https://github.com/ermongroup/sparse_gen) [[[PDF]](https://arxiv.org/abs/1807.01442) [Tensorflow]
   * Manik Dhar, Aditya Grover, Stefano Ermon, "Modeling Sparse Deviations for Compressed Sensing using Generative Models," International Conference on Machine Learning (ICML), 2018
+ 
+* Super-LiDAR [[Code]](https://github.com/nchodosh/Super-LiDAR) [[PDF]](https://arxiv.org/abs/1803.08949) [Tensorflow]
+  * Nathaniel Chodosh, Chaoyang Wang, Simon Lucey, "Deep Convolutional Compressed Sensing for LiDAR Depth Completion," arXiv:1803.08949, 2018. 
 
 * Unpaired-GANCS [[Code]](https://github.com/MortezaMardani/Unpaired-GANCS)
   * Reconstruct under sampled MRI image
