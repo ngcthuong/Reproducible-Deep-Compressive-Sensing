@@ -83,7 +83,10 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 ## Other 
 * VAE-GANs [[Code]](https://github.com/MortezaMardani/GAN-Hallucination/tree/vae) [[PDF]](https://arxiv.org/pdf/1901.11228.pdf) [Python]
   * Vineet Edupuganti, Morteza Mardani, Joseph Cheng, Shreyas Vasanawala, John Pauly, "VAE-GANs for Probabilistic Compressive Image Recovery: Uncertainty Analysis," arxiv1901.1128, 2019.   
- 
+
+* Sparse-Gen [[Code]](https://github.com/ermongroup/sparse_gen) [[[PDF]](https://arxiv.org/abs/1807.01442) [Tensorflow]
+  * Manik Dhar, Aditya Grover, Stefano Ermon, "Modeling Sparse Deviations for Compressed Sensing using Generative Models," International Conference on Machine Learning (ICML), 2018
+
 * Unpaired-GANCS [[Code]](https://github.com/MortezaMardani/Unpaired-GANCS)
   * Reconstruct under sampled MRI image
 
