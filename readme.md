@@ -84,6 +84,9 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * VAE-GANs [[Code]](https://github.com/MortezaMardani/GAN-Hallucination/tree/vae) [[PDF]](https://arxiv.org/pdf/1901.11228.pdf) [Python]
   * Vineet Edupuganti, Morteza Mardani, Joseph Cheng, Shreyas Vasanawala, John Pauly, "VAE-GANs for Probabilistic Compressive Image Recovery: Uncertainty Analysis," arxiv1901.1128, 2019.   
   
+* CSGAN [[Code]](https://github.com/po0ya/csgan) [[PDF]](https://arxiv.org/abs/1802.01284) [Tensorflow]
+  * Kabkab, Maya and Samangouei, Pouya and Chellappa, Rama, "Task-aware Compressed Sensing with Generative Adversarial Networks," AAAI Conference on Artificial Intelligence, 2018.  
+  
 * Unpaired-GANCS [[Code]](https://github.com/MortezaMardani/Unpaired-GANCS)
   * Reconstruct under sampled MRI image
 
