@@ -84,6 +84,9 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
   * M. Mardani et al., "Compressed Sensing MRI based on Deep Generative Adversarial Network", arXiv:1706.00051, 2017.
 
 ## Other 
+* LIS-DL [[Code]](https://github.com/Abdelrahman-Taha/LIS-DeepLearning) [[PDF]](https://arxiv.org/abs/1904.10136) [Matlab]
+  * Abdelrahman Taha, Muhammad Alrabeiah, Ahmed Alkhateeb, "Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning," arXiv:1904.10136, Apr 2019.   
+
 * VAE-GANs [[Code]](https://github.com/MortezaMardani/GAN-Hallucination/tree/vae) [[PDF]](https://arxiv.org/pdf/1901.11228.pdf) [Python]
   * Vineet Edupuganti, Morteza Mardani, Joseph Cheng, Shreyas Vasanawala, John Pauly, "VAE-GANs for Probabilistic Compressive Image Recovery: Uncertainty Analysis," arxiv1901.1128, 2019.   
 
