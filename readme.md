@@ -47,6 +47,11 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
   * K. Xu, Z. Zhang, and  F. Ren, "LAPRAN: A Scalable Laplacian Pyramid Reconstructive Adversarial Network for Flexible Compressive Sensing Reconstruction," arXiv:1807.09388. 
 
 ## Frame-based DCS
+
+* F-CSRG [[Code]](https://github.com/sihan-zeng/f-csrg) [[PDF]](https://arxiv.org/abs/1902.06913) [Tensorflow]
+  * Shaojie Xu, Sihan Zeng, Justin Romberg, "Fast Compressive Sensing Recovery Using Generative Models with Structured Latent Variables
+," arXiv:1806.10175, 2019.
+
 * L1AE [[Code]](https://github.com/wushanshan/L1AE) [[PDF]](https://arxiv.org/abs/1806.10175) [Tensorflow]
   * Shanshan Wu, Alexandros G. Dimakis, Sujay Sanghavi, Felix X. Yu, Daniel Holtmann-Rice, Dmitry Storcheus, Afshin Rostamizadeh, Sanjiv Kumar, "Learning a Compressed Sensing Measurement Matrix via Gradient Unrolling," arXiv:1806.10175, 2018.
   
