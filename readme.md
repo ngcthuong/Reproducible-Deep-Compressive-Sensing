@@ -100,7 +100,6 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
   * M. Mardani et al., "Compressed Sensing MRI based on Deep Generative Adversarial Network", arXiv:1706.00051, 2017.
 
 ## Other 
-
 * LIS-DL [[Code]](https://github.com/Abdelrahman-Taha/LIS-DeepLearning) [[PDF]](https://arxiv.org/abs/1904.10136) [Matlab]
   * Abdelrahman Taha, Muhammad Alrabeiah, Ahmed Alkhateeb, "Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning," arXiv:1904.10136, Apr 2019.   
 
