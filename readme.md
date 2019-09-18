@@ -52,6 +52,9 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
   * K. Xu, Z. Zhang, and  F. Ren, "LAPRAN: A Scalable Laplacian Pyramid Reconstructive Adversarial Network for Flexible Compressive Sensing Reconstruction," arXiv:1807.09388. 
 
 ## Frame-based DCS
+* DeepFlatCam[[Code]](https://github.com/ngcthuong/DeepFlatCam) - Available soon
+  * Thuong Nguyen Canh and Hajime Nagahara, "Deep Compressive Sensing for Visual Privacy Protection in FlatCam Imaging," IEEE the International Conference on Computer Vision Workshop, 2019.)
+
 * DCS-GAN [[Code]](https://github.com/deepmind/deep-compressed-sensing)[[Pdf]](https://arxiv.org/pdf/1905.06723.pdf) - Available Soon from DeepMind
   * Yan Wu, Mihaela Rosca, Timothy Lillicrap, Deep Compressive Sensing, Arxiv 2019. 
   
