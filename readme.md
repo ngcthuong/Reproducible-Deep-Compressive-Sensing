@@ -55,6 +55,9 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * DeepFlatCam[[Code]](https://github.com/ngcthuong/DeepFlatCam) - Available soon
   * Thuong Nguyen Canh and Hajime Nagahara, "Deep Compressive Sensing for Visual Privacy Protection in FlatCam Imaging," IEEE the International Conference on Computer Vision Workshop, 2019.)
 
+* ADMM-CSNet[[Code]](https://github.com/yangyan92/ADMM-CSNet)
+  * Yan Yang, Jian Sun, Huibin Li, Zongben Xu, "ADMM-CSNet: A Deep Learning Approach for Image Compressive Sensing," IEEE Transaction on Pattern Recognition and Machine Intelligence, 2019.
+
 * DCS-GAN [[Code]](https://github.com/deepmind/deep-compressed-sensing)[[Pdf]](https://arxiv.org/pdf/1905.06723.pdf) - Available Soon from DeepMind
   * Yan Wu, Mihaela Rosca, Timothy Lillicrap, Deep Compressive Sensing, Arxiv 2019. 
   
