@@ -55,6 +55,9 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * DeepFlatCam[[Code]](https://github.com/ngcthuong/DeepFlatCam) - Available soon
   * Thuong Nguyen Canh and Hajime Nagahara, "Deep Compressive Sensing for Visual Privacy Protection in FlatCam Imaging," IEEE the International Conference on Computer Vision Workshop, 2019.)
 
+* Tensor-ADMM-Net-CSI[[Code]](https://github.com/Phoenix-V/tensor-admm-net-sci)
+  * Jiawei Ma, Xiao-Yang Liu, Zheng Shou, Xin Yuan, "Deep Tensor ADMM-Net for Snapshot Compressive Imaging," IEEE ICCV, Nov. 2019.
+
 * ADMM-CSNet[[Code]](https://github.com/yangyan92/ADMM-CSNet)
   * Yan Yang, Jian Sun, Huibin Li, Zongben Xu, "ADMM-CSNet: A Deep Learning Approach for Image Compressive Sensing," IEEE Transaction on Pattern Recognition and Machine Intelligence, 2019.
 
