@@ -111,9 +111,6 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 
 ## Other 
 
-* CompressiveFlows [[Code]](https://github.com/jeringeo/CompressiveFlows) [[PDF]](http://openaccess.thecvf.com/content_ICCV_2019/papers/James_Restoration_of_Non-Rigidly_Distorted_Underwater_Images_Using_a_Combination_of_ICCV_2019_paper.pdf) [Matlab]
-  * Jerin Geo James, Pranay Agrawal, Ajit Rajwade, "Restoration of Non-Rigidly Distorted Underwater Images Using a Combination of Compressive Sensing and Local Polynomial Image Representations," ICCV, Nov. 2019.   
-
 * LIS-DL [[Code]](https://github.com/Abdelrahman-Taha/LIS-DeepLearning) [[PDF]](https://arxiv.org/abs/1904.10136) [Matlab]
   * Abdelrahman Taha, Muhammad Alrabeiah, Ahmed Alkhateeb, "Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning," arXiv:1904.10136, Apr 2019.   
 
