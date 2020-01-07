@@ -9,6 +9,9 @@ P/s: If you know any source code please let me know.
 
 ## Block-based DCS
 ### Single-Scale Sensing
+* DNN-CS-STM32-MCU [[Tensorflow]](https://github.com/flasonil/Deep-Neural-Network-for-CS-based-signal-reconstruction-on-STM32-MCU-board)
+  * Lab. of Statistical Signal Processing - Deep Neural Network for CS based signal reconstruction on STM32 MCU board
+
 * TIP-CSNet  [[DOI]](https://ieeexplore.ieee.org/document/8765626/) [[Code]](https://github.com/wzhshi/TIP-CSNet)[Matconvnet]
   * W. Shi et al., Image Compressed Sensing using Convolutional Neural Network, IEEE Trans. Image Process, 2019. 
 * Perceptual-CS [[Code]] (https://github.com/jiang-du/Perceptual-CS) [[DOI]](https://link.springer.com/chapter/10.1007/978-3-030-03338-5_23) [Caffe]
