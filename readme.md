@@ -112,10 +112,12 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * Deep-Ternary [[Code]](https://github.com/nmduc/deep-ternary) [[PDF]](https://arxiv.org/abs/1708.08311) [Tensorflow] 
   * D. M. Nguyen, E. Tsiligianni and N. Deligiannis, "Deep learning sparse ternary projections for compressed sensing of images," IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2017.
 
-* GANCS [[Code]](https://github.com/gongenhao/GANCS) [[PDF]](htps://arxiv.org/abs/1706.00051) [Tensorflow]
+* GANCS [[Code]](https://github.com/gongenhao/GANCS) [[PDF]](https://www.nature.com/articles/s41592-018-0233-6) [Tensorflow]
   * M. Mardani et al., "Compressed Sensing MRI based on Deep Generative Adversarial Network", arXiv:1706.00051, 2017.
 
 ## Other 
+* CSNN [[Code]](https://github.com/ayonar/csnn) [[DOI]](https://arxiv.org/abs/1904.10136) [Matlab][Tensorflow]
+  * Yonar and Lee et. al., A Compressed Sensing Framework for Efficient Dissection of Neural Circuits." (2019) Nature Methods 16, pages126–133.
 
 * LIS-DL [[Code]](https://github.com/Abdelrahman-Taha/LIS-DeepLearning) [[PDF]](https://arxiv.org/abs/1904.10136) [Matlab]
   * Abdelrahman Taha, Muhammad Alrabeiah, Ahmed Alkhateeb, "Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning," arXiv:1904.10136, Apr 2019.   
