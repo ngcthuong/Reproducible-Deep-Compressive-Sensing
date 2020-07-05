@@ -61,6 +61,12 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * DeepFlatCam[[Code]](https://github.com/ngcthuong/DeepFlatCam) [[PDF]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/LCI/Canh_Deep_Compressive_Sensing_for_Visual_Privacy_Protection_in_FlatCam_Imaging_ICCVW_2019_paper.pdf)
   * Thuong Nguyen Canh and Hajime Nagahara, "Deep Compressive Sensing for Visual Privacy Protection in FlatCam Imaging," IEEE the International Conference on Computer Vision Workshop, 2019.)
 
+* MD-Recon-Net[[Code]](https://github.com/Deep-Imaging-Group/MD-Recon-Net) [[PDF]]()
+  * Maosong Ran, Wenjun Xia, Yongqiang Huang, Zexin Lu, Peng Bao, Yan Liu, Huaiqiang Sun, Jiliu Zhou, and Yi Zhang, "MD-Recon-Net: a parallel dual-domain convolutional neural network for compressed sensing MRI," IEEE Transactions on Radiation and Plasma Medical Sciences, DOI: 10.1109/TRPMS.2020.2991877, online, 2020.
+  
+* CS-MRI-GAN[[Code]](https://github.com/puneesh00/cs-mri-gan) [[PDF]](https://arxiv.org/abs/1910.06067)
+  * P. Deora, B. Váudeva, S. Bhattacharya, P. M. Pradhan, "Structure Preserving Compressive Sensing MRI Reconstruction using Generative Adversarial Networks," IEEE Computer Vision and Pattern Recognition Workshop, 2020.
+
 * Tensor-ADMM-Net-CSI[[Code]](https://github.com/Phoenix-V/tensor-admm-net-sci) [Tensorflow]
   * Jiawei Ma, Xiao-Yang Liu, Zheng Shou, Xin Yuan, "Deep Tensor ADMM-Net for Snapshot Compressive Imaging," IEEE ICCV, Nov. 2019.
 
