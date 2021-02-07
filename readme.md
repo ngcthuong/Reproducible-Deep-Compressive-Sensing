@@ -125,12 +125,6 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * DAGAN [[Code]](https://github.com/nebulaV/DAGAN) [[PDF]](http://discovery.ucl.ac.uk/10048154/1/08233175.pdf) [[DOI]](https://doi.org/10.1109/TMI.2017.2785879) [Tensorflow]
   * G. Yang et al., "DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction," IEEE Transaction on Medical Imaging, vol. 37, no. 6, 2018. 
 
-* DeepVideoCS [[Web]](http://users.eecs.northwestern.edu/~mif365/deep_cs_project.html) [[Code]](https://github.com/miliadis/DeepVideoCS) [[PDF]](http://users.eecs.northwestern.edu/~mif365/papers/Deep_Video_CS.pdf) [[DOI]](https://doi.org/10.1016/j.dsp.2017.09.010) [PyTorch]
-  * M. Illiasdis, L. Spinoulas, A. K. Katsaggelos, "Deep fully-connected networks for video compressive sensing," Elsevier Digital Signal Processing, vol. 72, 2018.  
-
-* CSVideoNet [[Code]](https://github.com/PSCLab-ASU/CSVideoNet) [[PDF]](https://arxiv.org/pdf/1612.05203.pdf) [Caffe] [Matlab]
-  * K. Xu and F. Ren, "SVideoNet: A Recurrent Convolutional Neural Network for Compressive Sensing Video Reconstruction," arXiv:162.05203, 2018. 
-  
 * SADN [[Code]](https://github.com/yqx7150/SADN)[[Doi]](https://ieeexplore.ieee.org/document/8296620?reload=true) [Matlab]
   * Qiegen Liu and Henry Leung, Synthesis-analysis deconvolutional network for compressed sensing, IEEE International Conference on Image Processing, 2017. 
 * CSGM [[Code]](https://github.com/AshishBora/csgm) [[PDF]](https://arxiv.org/abs/1703.03208) [Tensorflow]
@@ -144,6 +138,17 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 
 * GANCS [[Code]](https://github.com/gongenhao/GANCS) [[PDF]](https://www.nature.com/articles/s41592-018-0233-6) [Tensorflow]
   * M. Mardani et al., "Compressed Sensing MRI based on Deep Generative Adversarial Network", arXiv:1706.00051, 2017.
+
+## Video Compressive Sensing
+* DL-CACTI [[Code]](https://github.com/mq0829/DL-CACTI) [Tensorflow]
+  * M. Qiao, Z. Meng, J. Ma, X. Yuan, "Deep Learning for Video Compressive Sensing", APL Photonic 5, 2020.
+
+* DeepVideoCS [[Web]](http://users.eecs.northwestern.edu/~mif365/deep_cs_project.html) [[Code]](https://github.com/miliadis/DeepVideoCS) [[PDF]](http://users.eecs.northwestern.edu/~mif365/papers/Deep_Video_CS.pdf) [[DOI]](https://doi.org/10.1016/j.dsp.2017.09.010) [PyTorch]
+  * M. Illiasdis, L. Spinoulas, A. K. Katsaggelos, "Deep fully-connected networks for video compressive sensing," Elsevier Digital Signal Processing, vol. 72, 2018.  
+
+* CSVideoNet [[Code]](https://github.com/PSCLab-ASU/CSVideoNet) [[PDF]](https://arxiv.org/pdf/1612.05203.pdf) [Caffe] [Matlab]
+  * K. Xu and F. Ren, "SVideoNet: A Recurrent Convolutional Neural Network for Compressive Sensing Video Reconstruction," arXiv:162.05203, 2018. 
+  
 
 ## Other 
 * CSNN [[Code]](https://github.com/ayonar/csnn) [[DOI]](https://arxiv.org/abs/1904.10136) [Matlab][Tensorflow]
