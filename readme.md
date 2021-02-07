@@ -77,6 +77,10 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * LAPRAN [[Code]](https://github.com/PSCLab-ASU/LAPRAN-PyTorch) [[PDF]](https://arxiv.org/abs/1807.09388) [PyTorch]
   * K. Xu, Z. Zhang, and  F. Ren, "LAPRAN: A Scalable Laplacian Pyramid Reconstructive Adversarial Network for Flexible Compressive Sensing Reconstruction," arXiv:1807.09388. 
 
+## Adaptive Sensing 
+* ACSNet [[Code]](https://github.com/jirong0214/ACSNet-Code)
+  * L. Zhong, S. Wan and L. Xie, "Adaptive Compressed Sensing imaging algorithm based on Deep Neural Network", Journal of Pysics Conference. 
+
 ## Frame-based DCS
 * DeepFlatCam[[Code]](https://github.com/ngcthuong/DeepFlatCam) [[PDF]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/LCI/Canh_Deep_Compressive_Sensing_for_Visual_Privacy_Protection_in_FlatCam_Imaging_ICCVW_2019_paper.pdf)
   * Thuong Nguyen Canh and Hajime Nagahara, "Deep Compressive Sensing for Visual Privacy Protection in FlatCam Imaging," IEEE the International Conference on Computer Vision Workshop, 2019.)
