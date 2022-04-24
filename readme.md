@@ -9,6 +9,8 @@ P/s: If you know any source code please let me know.
 
 ## Block-based DCS
 ### Single-Scale Sensing
+* SP_DCS: Single pixel DCS [[code]](https://github.com/Jeremy-jia2021/deep-compressive-sensing) [PyTorch]
+  * Mengyu Jia et al . Single pixel imaging via unsupervised deep compressive sensing with collaborative sparsity in discretized feature space, Journal of Bio photonic, 2022.
 * AMPD-Net:[[Code]](https://github.com/ZhonghaoZ/AMP-Net_TIP) [PyTorch]
   * Z. Zhang, Y. Liu, J. Liu, F. Wen, C. Zhu, "AMP-Net: Denoising based Deep Unfolding for Compressive Image Sensing," IEEE Transaction on Image Processing, 2021. 
 
