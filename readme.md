@@ -9,6 +9,8 @@ P/s: If you know any source code please let me know.
 
 ## Block-based DCS
 ### Single-Scale Sensing
+* NL-CSNet: [[code]](https://github.com/WenxueCui/NL-CSNet-Pytorch) [PyTorch]
+  * W. Cui et al, Image Compressed Sensing Using Non-local Neural Network, Transaction on Multimedia, 2022.
 * MADUN: [[code]](https://github.com/songjiechong/MADUN-ACMMM2021) [PyTorch]
   * J. Song et al. Memory-Augmented Deep Unfolding Network for Compressive Sensing (ACM MM 2021)
 * SP_DCS: Single pixel DCS [[code]](https://github.com/Jeremy-jia2021/deep-compressive-sensing) [PyTorch]
