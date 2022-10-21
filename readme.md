@@ -94,6 +94,8 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
   * K. Xu, Z. Zhang, and  F. Ren, "LAPRAN: A Scalable Laplacian Pyramid Reconstructive Adversarial Network for Flexible Compressive Sensing Reconstruction," arXiv:1807.09388. 
 
 ## Adaptive Sensing 
+* AMS-NET: [[code]](https://github.com/RedamancyAY/AMS-Net) [Python]
+  * AMS-Net: Adaptive Multi-Scale Network for Image Compressive Sensing, IEEE Transaction on Multimedia, 2022. 
 * ACSNet [[Code]](https://github.com/jirong0214/ACSNet-Code)
   * L. Zhong, S. Wan and L. Xie, "Adaptive Compressed Sensing imaging algorithm based on Deep Neural Network", Journal of Pysics Conference. 
 
