@@ -9,8 +9,6 @@ P/s: If you know any source code please let me know.
 
 ## Block-based DCS
 ### Single-Scale Sensing
-* AMS-NET: [[code]](https://github.com/RedamancyAY/AMS-Net) [Python]
-  * AMS-Net: Adaptive Multi-Scale Network for Image Compressive Sensing, IEEE Transaction on Multimedia, 2022. 
 * RK-CSNet: [[code]](https://github.com/rkteddy/RK-CCSNet) [Pytorch]
   * R. Zheng et al, "Runge-Kutta Convolutional Compressed Sensing Network," ECCV 2022.
 * TDCN: [[code]](https://github.com/UHADS/TDCN) [Pytorch]
@@ -73,6 +71,8 @@ P/s: If you know any source code please let me know.
 Measurements," IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2016. 
 
 ### Multi-Scale Sensing
+* AMS-NET: [[code]](https://github.com/RedamancyAY/AMS-Net) [Python]
+  * AMS-Net: Adaptive Multi-Scale Network for Image Compressive Sensing, IEEE Transaction on Multimedia, 2022. 
 * MS-DCI [[DOI]]() [[PDF]](https://arxiv.org/abs/2008.00802) [[Code]](https://github.com/ngcthuong/MS-DCI/blob/master/README.md)[Matconvnet]
   * T. N. Canh et al., Multi-scale Deep Compressive Imaging, arxiv 2020. 
 
