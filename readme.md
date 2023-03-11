@@ -13,6 +13,8 @@ P/s: If you know any source code please let me know.
   * H. Gan et al., From Patch to Pixel: A Transformer-based Hierarchical Framework for Compressive Image Sensing, TCI 2023
 * TransCS: [[code]](https://github.com/ICSResearch/TransCS)
   * M. Shen et al., TransCS: A Transformer-Based Hybrid Architecture for Image Compressed Sensing, IEEE Trans Image Process, 2022. 
+* TCS: [[code]](https://github.com/uqmarlonbran/TCS)
+  * M. B. Lorenzana et al., Transfomer compressed sensing via global image tokens, IEEE International Conference on Image Processing, ICIP 2022.
 * IBM_CS: [[code]](https://github.com/bksain/IBM_CS)
   * B. Lee et al., Information Bottleneck Measurement for Compressed Sensing Image Reconstruction, IEEE Signal Processing Letter 2022. 
 * RK-CSNet: [[code]](https://github.com/rkteddy/RK-CCSNet) [Pytorch]
