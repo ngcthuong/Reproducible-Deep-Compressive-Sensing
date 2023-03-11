@@ -79,6 +79,8 @@ P/s: If you know any source code please let me know.
 Measurements," IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2016. 
 
 ### Multi-Scale Sensing
+* STDIP: [[code]](https://github.com/zhang-chenxu/STDIP)
+  * Y. Zhong et al, Image Compressed Sensing Reconstruction via Deep Image Prior With Structure-Texture Decomposition, IEEE Signal Processing Letter 2023.
 * AMS-NET: [[code]](https://github.com/RedamancyAY/AMS-Net) [Python]
   * AMS-Net: Adaptive Multi-Scale Network for Image Compressive Sensing, IEEE Transaction on Multimedia, 2022. 
 * MS-DCI [[DOI]]() [[PDF]](https://arxiv.org/abs/2008.00802) [[Code]](https://github.com/ngcthuong/MS-DCI/blob/master/README.md)[Matconvnet]
