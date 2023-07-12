@@ -1,4 +1,4 @@
-# Reproducible Deep Compressive Sensing 
+# Deep Compressive Sensing 
 Collection of source code for deep learning-based compressive sensing (DCS). Links for source code, pdf, doi are available. 
 Related works are classified based on the sampling matrix type (frame-based/block-based), sampling scale (single scale, multi-scale), and deep learning platform. 
 
